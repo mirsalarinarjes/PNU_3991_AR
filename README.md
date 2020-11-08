@@ -12,7 +12,7 @@
 ### نرجس میرسالاری
  
 ---
--  [PNU_3991_AR](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/README.md)
+-  [PNU_3991_AR](https://github.com/mirsalarinarjes/PNU_3991_AR)
 - [حساب گیت هاب](https://github.com/mirsalarinarjes)
 
 - [رزومه](https://mirsalarinarjes.github.io/)
