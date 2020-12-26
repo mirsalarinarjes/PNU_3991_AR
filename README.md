@@ -11,7 +11,11 @@
 -  [patchwork](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/pacthwork.png)
 
 ------------------
-
+# تمرین ها
+1. [G-A03]
+    1. [------------]
+    1. [------------]
+    1. [Ford-fulkerson](https://mirsalarinarjes.github.io/ford-fulkerson/)
 
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
