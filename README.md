@@ -15,7 +15,7 @@
 1. [G-A03]
     1. [------------]
     1. [------------]
-    1. [Ford-fulkerson](https://mirsalarinarjes.github.io/ford-fulkerson/)
+    1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
 
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
