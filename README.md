@@ -43,6 +43,7 @@
 
 ## ارزیابی بخش عمومی 
 -[ارزیابی رزومه  و انگیزه نامه ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/General/NM_CV_CheckList_AR_3991.pdf)
+
 -[ارزیابی بخش عمومی ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/General/NM_GeneralSection_CheckList_AR_3991.pdf)
 
 ## ارزیابی دروس کارشناسی ارشد
