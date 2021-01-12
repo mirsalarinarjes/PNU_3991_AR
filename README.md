@@ -33,7 +33,6 @@
 
 [1115025_01_166   الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/AdvancedAlgorithms)
 <br>
-<br>
 [1115023_01_166 سیستم عامل پیشرفته ]
 <br>
 [1115024_71_166 پایگاه داده پیشرفته ]
@@ -42,13 +41,15 @@
 --------------
 >ارزیابی ها
 
-##بخش عمومی
+## ارزیابی بخش عمومی 
+-[ارزیابی رزومه  و انگیزه نامه ]()
+-[ارزیابی بخش عمومی ]()
+
+## ارزیابی دروس کارشناسی ارشد
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 
-
-##ارزیابی دروس کارشناسی ارشد
-[1115025_01_166   ارزیابی درس الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
-
+---------------------------
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
