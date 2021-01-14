@@ -30,3 +30,12 @@
 ## ارزیابی دروس کارشناسی ارشد
 -[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms"> الگوریتم های پیشرفته</a></th>
+    <th>چهارشنبه</th>
+  </tr>
+
