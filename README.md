@@ -13,7 +13,7 @@
 ------------------
 # تمرین ها
 1. [G-A03]
-    1. [Binary search tree]
+    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
     1. [Bubble sort]
     1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
 
