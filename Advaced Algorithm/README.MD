@@ -30,6 +30,9 @@
 ## ارزیابی دروس کارشناسی ارشد
 -[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
+-------------------
+## روز و ساعت ارائه دروس
+
   <tr>
     <th ></th>
     <th ></th>
