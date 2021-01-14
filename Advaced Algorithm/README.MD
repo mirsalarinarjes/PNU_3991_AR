@@ -1,10 +1,14 @@
 # تمرین ها
-1. [G-A03]
+1. [G-A03تمرینات گروهی ]
     1. [Binary search tree](https://www.aparat.com/v/mE1XP)
-    1. [Bubble sort]
+    1. [Bubble sort](https://aparat.com/v/jk90Q)
     1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
-
-
+    
+ ------------------
+ 1.[تمرین فردی]
+    1.[Robin - karp]
+    
+--------------------
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
