@@ -13,8 +13,8 @@
 ------------------
 # تمرین ها
 1. [G-A03]
-    1. [robin - karp]
-    1. [------------]
+    1. [Binary search tree]
+    1. [Bubble sort]
     1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
 
 # گروه ها
