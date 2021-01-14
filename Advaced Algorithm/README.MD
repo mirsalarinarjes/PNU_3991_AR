@@ -5,8 +5,8 @@
     1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
     
  ------------------
- 1.[تمرین فردی]
-    1.[Robin - karp]
+ 1. [تمرین فردی]
+     1.[Robin - karp]
     
 --------------------
 # گروه ها
