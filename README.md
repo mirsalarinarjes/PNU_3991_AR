@@ -11,11 +11,26 @@
 -  [patchwork](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/pacthwork.png)
 
 ------------------
+>ارزیابی ها
+
+## ارزیابی بخش عمومی 
+-[ارزیابی رزومه  و انگیزه نامه ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/General/NM_CV_CheckList_AR_3991.pdf)
+
+-[ارزیابی بخش عمومی ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/General/NM_GeneralSection_CheckList_AR_3991.pdf)
+
+## ارزیابی دروس کارشناسی ارشد
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+
+
+-------------------------
+
 # تمرین ها
 1. [G-A03]
     1. [Binary search tree](https://www.aparat.com/v/mE1XP)
     1. [Bubble sort]
     1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
+    
+    
 
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
@@ -37,18 +52,6 @@
 <br>
 [1115024_71_166 پایگاه داده پیشرفته ]
 <br>
-
---------------
->ارزیابی ها
-
-## ارزیابی بخش عمومی 
--[ارزیابی رزومه  و انگیزه نامه ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/General/NM_CV_CheckList_AR_3991.pdf)
-
--[ارزیابی بخش عمومی ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/General/NM_GeneralSection_CheckList_AR_3991.pdf)
-
-## ارزیابی دروس کارشناسی ارشد
--[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
-
 
 ---------------------------
 ## روز و ساعت ارائه دروس
