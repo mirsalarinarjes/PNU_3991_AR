@@ -6,7 +6,7 @@
     
  ------------------
  1. [تمرین فردی]
-     1. [Robin - karp]
+     1. [Robin - karp](file:///C:/Users/Admin/Desktop/robin-%20karp/robin-%20karp.html)
     
 --------------------
 # گروه ها
