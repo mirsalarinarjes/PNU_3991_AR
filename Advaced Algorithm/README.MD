@@ -3,16 +3,16 @@
 ### نرجس میرسالاری
  
 --------------
-## تمرین ها
+# تمرین ها
 -----------------
 
-# تمرین فردی
+## تمرین فردی
 
    1. [Robin - karp](https://aparat.com/v/xhLI7)
     
 -------------------
 
-# تمرین گروهی
+## G-A03 تمرینات گروهی 
 
    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
    1. [Bubble sort](https://aparat.com/v/jk90Q)
