@@ -3,17 +3,23 @@
 ### نرجس میرسالاری
  
 --------------
-# تمرین ها
-1. [G-A03تمرینات گروهی ]
-    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
-    1. [Bubble sort](https://aparat.com/v/jk90Q)
-    1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
+## تمرین ها
+-----------------
+
+# تمرین فردی
+
+   1. [Robin - karp](https://aparat.com/v/xhLI7)
+    
+-------------------
+
+# تمرین گروهی
+
+   1. [Binary search tree](https://www.aparat.com/v/mE1XP)
+   1. [Bubble sort](https://aparat.com/v/jk90Q)
+   1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
     
  ------------------
- 1. [تمرین فردی]
-     1. [Robin - karp](https://aparat.com/v/xhLI7)
-    
---------------------
+ 
 
 ## ارزیابی دروس کارشناسی ارشد
 -[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/Advaced%20Algorithm/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
